@@ -3,4 +3,18 @@ html {
   background-color: black;
   color: seashell;
   opacity: 0.9;
+  font-size: 22px;
+}
+
+/* Header */
+
+.header-container {
+  height: 50px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.nav-option {
+  display: inline-block;
+  vertical-align: right;
 }
